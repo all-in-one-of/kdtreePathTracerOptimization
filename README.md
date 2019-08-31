@@ -1,3 +1,4 @@
+# [https://github.com/all-in-one-of/kdtreePathTracerOptimization/blob/master/rnd/houdini/gentriangles.hipnc](https://github.com/all-in-one-of/kdtreePathTracerOptimization/blob/master/rnd/houdini/gentriangles.hipnc)
 KD tree optimization for path tracing
 =====================================
 
